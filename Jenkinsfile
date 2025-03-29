@@ -10,7 +10,7 @@ pipeline {
      
         stage('developer') { 
             steps { 
-               sh 'echo "This is developer branch...."'
+               sh 'echo "This is developer branch....vk"'
             }
         }
 
